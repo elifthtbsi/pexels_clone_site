@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/pexels_clone_site.props" />
+</Project>
