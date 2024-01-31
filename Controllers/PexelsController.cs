@@ -1,12 +1,19 @@
-using Microsoft.AspNetCore.Mvc;
-using System.Threading.Tasks;
+using Newtonsoft.Json;
+using System;
+using System.Collections.Generic;
+using System.Text;
 
-public class PexelsController : Controller
+namespace PexelsDotNetSDK.Models
 {
-    public async Task<IActionResult> Index()
+    public class Photo
     {
-        // Pexels API'den görselleri çekme işlemleri burada yapılabilir
-        // Örneğin, HomeController'daki Index metodu gibi
-        return View();
+
+        [JsonProperty("url")]
+        public string url { get; set; }
+
+        [JsonProperty("photographer")]
+        public string photographer { get; set; }
+
+       
     }
 }

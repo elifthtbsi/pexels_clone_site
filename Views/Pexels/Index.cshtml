@@ -1,5 +1,18 @@
-<!DOCTYPE html>
+@{
+    Layout = "/Views/Shared/_HomeLayout.cshtml"; // Home sayfasına özel layout
+}
 
-<h1>burada fotolar olacak inş</h1>
+@model IEnumerable<PexelsDotNetSDK.PexelsPhoto>
 
-</html>
+@{
+    ViewData["Title"] = "Pexels Photos";
+}
+
+<h2>Pexels Photos</h2>
+
+<div>
+    @foreach (var photo in Model)
+    {
+        <img src="@photo.Src.Large" alt="@photo.Photographer" />
+    }
+</div>

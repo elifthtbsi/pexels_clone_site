@@ -1,0 +1,9 @@
+/home/elifthtbsi/Desktop/mvc/pexels_clone_site/obj/Debug/net6.0/pexels_clone_site.csproj.AssemblyReference.cache
+/home/elifthtbsi/Desktop/mvc/pexels_clone_site/obj/Debug/net6.0/pexels_clone_site.GeneratedMSBuildEditorConfig.editorconfig
+/home/elifthtbsi/Desktop/mvc/pexels_clone_site/obj/Debug/net6.0/pexels_clone_site.AssemblyInfoInputs.cache
+/home/elifthtbsi/Desktop/mvc/pexels_clone_site/obj/Debug/net6.0/pexels_clone_site.AssemblyInfo.cs
+/home/elifthtbsi/Desktop/mvc/pexels_clone_site/obj/Debug/net6.0/pexels_clone_site.csproj.CoreCompileInputs.cache
+/home/elifthtbsi/Desktop/mvc/pexels_clone_site/obj/Debug/net6.0/pexels_clone_site.MvcApplicationPartsAssemblyInfo.cache
+/home/elifthtbsi/Desktop/mvc/pexels_clone_site/obj/Debug/net6.0/pexels_clone_site.RazorAssemblyInfo.cache
+/home/elifthtbsi/Desktop/mvc/pexels_clone_site/obj/Debug/net6.0/pexels_clone_site.RazorAssemblyInfo.cs
+/home/elifthtbsi/Desktop/mvc/pexels_clone_site/obj/Debug/net6.0/pexels_clone_site.sourcelink.json

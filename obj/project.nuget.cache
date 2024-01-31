@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "FoMfVvZkR4RNQcoqw+f7woISyfNYmQ5i7u4w/WFmSpvUddxeMj6ZSjKGFhHigOTZS0lUaS2Xvm6cfw0GzDPr8Q==",
+  "dgSpecHash": "G/XG39Jnw5wc3TZWsP8SLPCHSzZx2R8pZNDLzbb+KLuQ51SSh1+TvUiPs5uNaAm0WGn47MUPuLnimjKKdqU4vA==",
   "success": true,
   "projectFilePath": "/home/elifthtbsi/Desktop/mvc/pexels_clone_site/pexels_clone_site.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/elifthtbsi/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/elifthtbsi/.nuget/packages/pexelsdotnetsdk/1.0.11/pexelsdotnetsdk.1.0.11.nupkg.sha512",
+    "/home/elifthtbsi/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "/home/elifthtbsi/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "/home/elifthtbsi/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.25/microsoft.netcore.app.host.linux-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
